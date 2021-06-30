@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<fields templateEngineKind="Velocity" >
+	<description><![CDATA[]]></description>
+	<field name="n.Day" list="false" imageName="" syntaxKind="">
+		<description><![CDATA[]]></description>
+	</field>
+	<field name="n.Month" list="false" imageName="" syntaxKind="">
+		<description><![CDATA[]]></description>
+	</field>
+	<field name="n.Year" list="false" imageName="" syntaxKind="">
+		<description><![CDATA[]]></description>
+	</field>
+	<field name="dt.Customer" list="true" imageName="" syntaxKind="">
+		<description><![CDATA[]]></description>
+	</field>
+	<field name="dt.Name" list="true" imageName="" syntaxKind="">
+		<description><![CDATA[]]></description>
+	</field>
+	<field name="dt.Quantity" list="true" imageName="" syntaxKind="">
+		<description><![CDATA[]]></description>
+	</field>
+	<field name="dt.Revense" list="true" imageName="" syntaxKind="">
+		<description><![CDATA[]]></description>
+	</field>
+	<field name="dt.Stt" list="true" imageName="" syntaxKind="">
+		<description><![CDATA[]]></description>
+	</field>
+	<field name="t.Time" list="false" imageName="" syntaxKind="">
+		<description><![CDATA[]]></description>
+	</field>
+	<field name="t.Total" list="false" imageName="" syntaxKind="">
+		<description><![CDATA[]]></description>
+	</field>
+</fields>
